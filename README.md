@@ -2,7 +2,7 @@
 
 Hepimiz, yazılımcılar olarak, kendi çevremizde teknoloji ile ilgilenen gençleri(kuzen, kardeş, komşu, yiğen) yazılım dünyasına çekip rehberlik yaparak ve gençlerin de arkadaşlarını davet ettiği yazılım halkaları oluşturarak güzel sonuçlar çıkarabileceğimize inanıyorum. Projenin detaylı twitter duyurusunu [buradan](https://twitter.com/farukozderim/status/1556355771335643142?s=20&t=xckRYv0u8D6BxXQCGVHfUw) okuyabilirsiniz.
 
-Herhangi bir konuyu öğrenmek için birkaç şeye ihtiyaç olduğunu düşünüyorum.
+Herhangi bir konuyu öğrenmek için birkaç şeye ihtiyaç bulunmakta.
 
 1. Öğrenim halkası
 2. Müfredat
