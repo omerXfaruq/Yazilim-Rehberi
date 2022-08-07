@@ -1,1 +1,1 @@
-# Yaz-l-m-Rehberi
+# Yazılım Rehberi
