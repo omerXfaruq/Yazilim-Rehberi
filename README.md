@@ -35,4 +35,20 @@ Python dili belirginliği sebebiyle acemi birisinin öğrenmesi için oldukça g
 - [FreeCodeCamp-Python](https://youtu.be/rfscVS0vtbw)
 - [FreeCodeCamp-Python-FastAPI-Web](https://youtu.be/0sOvCWFmrtA)
  
+ 
+ [C++ için en iyi playlist](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+ [Bilgisayar Mimarisi için en iyi playlist](https://youtube.com/playlist?list=PLvNq8wrSYGAU6CF4UleG6HbXa9paQDsLK)
+ [Educative.io kursları](https://github.com/the-prksh/educative-courses)
+ [Open Source Society University](https://github.com/ossu/computer-science)
 
+
+Link eklenecek...
+• Algorithms, Part I (Coursera: Robert Sedgewick & Kevin Wayne)
+• Algorithms, Part II (Coursera: Robert Sedgewick & Kevin Wayne)
+• Programming with a Purpose (Coursera: Robert Sedgewick & Kevin Wayne)
+• Algorithms, Theory, and Machines (Coursera: Robert Sedgewick & Kevin Wayne)
+• Harvard CS50’s Introduction to Computer Science (edX: David J.Malan)
+• Build a Modern Computer I (Coursera: Shimon Schocken)
+• Build a Modern Computer II (Coursera: Shimon Schocken)
+• 6.0001 (MIT OpenCourseWare: Dr. Ana Bell)
+• 6.00.1x (Youtube: Eric Grimson)
