@@ -24,8 +24,8 @@ Açıkçası yazılıma yeni başlayan birisi nereden başlayabiliyorsa iyidir. 
 
 Eğer öğrencinin İngilizce seviyesi ders takip etmek için yeterli ise İngilizce kaynaklardan ders dinlemesi daha iyi olur. İngilizce seviyesinin yeterli olmadığı durumlarda ise dersleri Türkçe kaynaklardan dinlemesi ve bir yandan da İngilizcesini ilerletmeye çalışması güzel olacaktır.
 
-[Türkçe Kaynaklar](https://www.btkakademi.gov.tr/portal/catalog)
-[İngilizce Kaynaklar](https://teachyourselfcs.com/)
+- [Türkçe Kaynaklar](https://www.btkakademi.gov.tr/portal/catalog)
+- [İngilizce Kaynaklar](https://teachyourselfcs.com/)
 
 ### Python
 
